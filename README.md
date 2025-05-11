@@ -1,2 +1,3 @@
 # Utkarsh-repo-1
-This is my first Git Repository
+This is my first Git Repository.
+Auther - Utkarsh Kashyap
